@@ -1,3 +1,8 @@
+/**
+ * @author MintDaL
+ * @warn Do not edit code or edit credits
+ */
+
 module.exports.config = {
     name: "baucua-mp",
     version: "1.0.0",
