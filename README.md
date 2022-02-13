@@ -22,6 +22,7 @@
 - **adminboxonly** - Chỉnh bot về chế độ chỉ quản trị viên nhóm được sử dụng: [commands/adminboxonly.js](modules/commands/adminboxonly.js)
 - **baucua** - Chơi bầu cua cược tiền: [commands/baucua.js](modules/commands/baucua.js)
 - **baucua-mp** - Chơi bầu cua nhiều người cược tiền: [commands/baucua-mp.js](modules/commands/baucua-mp.js)
+- **refresh** - Làm mới thông tin nhóm: [commands/refresh.js](modules/commands/refresh.js)
 
 # Một số module khác
 - Nhấn vào [đây](https://github.com/MintDaL/Module-Miraiv2) hoặc [đây](https://github.com/ProCoderMew/Module-Miraiv2)
