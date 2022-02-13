@@ -58,7 +58,7 @@ module.exports.run = async function ({ api, event, args, Currencies, getText, pe
         r.clearLine(process.stdout, 1);
         r.cursorTo(process.stdout, 0);
         let eff = n.ran() + m.ran() + v.ran();
-        process.stdout.write(eff + 'Thôi, cụ đi chân lạnh toát :D, khôn hồn đổi lại credits thì file m sẽ về :D\x1b[0m')
+        process.stdout.write(eff + 'Thôi cụ đi chân lạnh toát :D, khôn hồn đổi lại credits thì file m sẽ về :D\x1b[0m')
       }, 500);
       return;
     }
